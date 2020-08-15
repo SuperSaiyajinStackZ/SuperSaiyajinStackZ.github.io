@@ -1,7 +1,7 @@
 ---
 title: Home
 description: SuperSaiyajinStackZ's website
-permalink: /index
+permalink: /
 ---
 
 # SuperSaiyajinStackZ
