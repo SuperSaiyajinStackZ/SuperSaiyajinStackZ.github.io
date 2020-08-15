@@ -1,0 +1,30 @@
+toc:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Projects
+    items:
+      - title: PKCount
+        url: /projects/pkcount
+      - title: Mystery Dice Game
+        url: /projects/mdg
+  - title: StackGames
+    items:
+      - title: 3DEins
+        url: /stackgames/3deins
+      - title: 3DZwei
+        url: /stackgames/3dzwei
+      - title: 3DVier
+        url: /stackgames/3dvier
+      - title: BlockEscape3DS
+        url: /stackgames/blockescape3ds
+      - title: Mystery Dice Game
+        url: /projects/mdg
+  - title: Documentation
+    items:
+      - title: 3DEins-Core
+        url: /documentation/3deins-core/index
+      - title: Mystery Dice Game
+        url: /documentation/mdg/index
+
