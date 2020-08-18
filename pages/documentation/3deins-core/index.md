@@ -6,6 +6,10 @@ permalink: /documentation/3deins-core/index
 
 # 3DEins-Core Documentation
 
-You will find the 3DEins-Core Documentation in the future here.
+This page is not finished. Though an initial documentation has been implemented.
 
-This page is in progress.
+To go to the CardType page, click [here](cardtype).
+
+To go to the CardColor page, click [here](cardcolor).
+
+To go to the CardStruct page, click [here](cardstruct).
