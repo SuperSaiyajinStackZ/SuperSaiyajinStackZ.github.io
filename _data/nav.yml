@@ -9,6 +9,8 @@ toc:
         url: /projects/pkcount
       - title: Mystery Dice Game
         url: /projects/mdg
+      - title: LeafEdit Pattern Editor
+        url: /projects/leafedit-pattern-editor
   - title: StackGames
     items:
       - title: 3DEins
