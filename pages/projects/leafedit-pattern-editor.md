@@ -10,7 +10,7 @@ permalink: /projects/leafedit-pattern-editor
 
 This is LeafEdit's Pattern Editor as a separate app as well!
 
-### NOTE: This is not a save editor, for a save editor, please use [LeafEdit](https://github.com/Universal-Team/LeafEdit) instead.
+### NOTE: This tool can _only_ edit and store pattern. For a more featured Save Editor please use [LeafEdit](https://github.com/Universal-Team/LeafEdit) instead.
 
 
 ## Current Features
@@ -43,6 +43,15 @@ This is LeafEdit's Pattern Editor as a separate app as well!
 
 - Export Pattern Informations. // For the defaults.
 
+- Edit Pattern from AC:WW, AC:NL, AC:WA & AC:HHD's savefile directly.
+
+- A Storage System for your favorite AC:WW, AC:NL, AC:WA & AC:HHD's Pattern.
+
+- A Storage Menu for changing, resizing, creating, saving and managing the storage.
+
+- Music Playback support. (It supports .WAV and it MUST be MONO and smaller than 13 MB and it must be called `Music.wav` and inside `sdmc:/3ds/LeafEdit/Pattern-Editor/`).
+
+
 ## Planned | TODOs
 - 16-bit BMP images to Pattern conversion.
 
@@ -66,6 +75,12 @@ This is LeafEdit's Pattern Editor as a separate app as well!
 
 ### Selections
 ![](/assets/images/lpe/gameSelect.png) ![](/assets/images/lpe/regionSelect.png) ![](/assets/images/lpe/langSelect.png)
+
+### ShareOverlay
+![](assets/images/lpe/screenshots/shareOvl.png)
+
+### Storage
+![](assets/images/lpe/storageMenu.png) ![](assets/images/lpe/storageMain.png) ![](assets/images/lpe/storageInfo.png)
 
 
 ## Compilation:
@@ -102,8 +117,10 @@ You can get LeafEdit Pattern Editor from [here](https://github.com/SuperSaiyajin
 
 - [LeafEdit-Core-Contributors](https://github.com/Universal-Team/LeafEdit): For helping on LeafEdit-Core.
 
+- [PKSM](https://github.com/FlagBrew/PKSM): For the base of the storage / Bank system, which i used, but now reworked for the Pattern system.
+
 - [Slattz](https://github.com/Slattz): For the region flags & game icons from [NLTK](https://github.com/Slattz/NLTK).
 
-- [Universal-Team](https://github.com/Universal-Team): For [LeafEdit's](https://github.com/Universal-Team/LeafEdit) pattern core and [Universal-Core](https://github.com/Universal-Team/Universal-Core).
+- [Universal-Team](https://github.com/Universal-Team): For [LeafEdit's](https://github.com/Universal-Team/LeafEdit) core and [Universal-Core](https://github.com/Universal-Team/Universal-Core).
 
 - [TotallyNotGuy](https://github.com/TotallyNotGuy): For the amazing Graphics from LeafEdit.
