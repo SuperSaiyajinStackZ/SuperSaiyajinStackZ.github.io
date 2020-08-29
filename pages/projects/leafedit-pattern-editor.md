@@ -77,10 +77,10 @@ This is LeafEdit's Pattern Editor as a separate app as well!
 ![](/assets/images/lpe/gameSelect.png) ![](/assets/images/lpe/regionSelect.png) ![](/assets/images/lpe/langSelect.png)
 
 ### ShareOverlay
-![](assets/images/lpe/screenshots/shareOvl.png)
+![](/assets/images/lpe/shareOvl.png)
 
 ### Storage
-![](assets/images/lpe/storageMenu.png) ![](assets/images/lpe/storageMain.png) ![](assets/images/lpe/storageInfo.png)
+![](/assets/images/lpe/storageMenu.png) ![](/assets/images/lpe/storageMain.png) ![](/assets/images/lpe/storageInfo.png)
 
 
 ## Compilation:
