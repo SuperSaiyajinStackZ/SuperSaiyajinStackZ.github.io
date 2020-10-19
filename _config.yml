@@ -2,8 +2,8 @@ theme       : jekyll-theme-slate
 title       : "SuperSaiyajinStackZ"
 description : "SuperSaiyajinStackZ's site"
 repo        : "SuperSaiyajinStackZ/SuperSaiyajinStackZ.github.io"
-color       : "#3264c8"
-markdown_ext        : "markdown,mkdown,mkdn,mkd,md,html,cpp"
+color       : "#3280D9"
+markdown_ext : "markdown,mkdown,mkdn,mkd,md,html,cpp"
 
 defaults:
   -

@@ -1,5 +1,5 @@
 ---
-title: stackgames/3dzwei
+title: 3DZwei
 description: 3DZwei's Page.
 permalink: /stackgames/3dzwei
 ---

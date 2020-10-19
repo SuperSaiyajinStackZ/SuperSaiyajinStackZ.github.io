@@ -1,5 +1,5 @@
 ---
-title: projects/mdg
+title: Mystery Dice Game
 description: Mystery Dice Game's Page.
 permalink: /projects/mdg
 ---

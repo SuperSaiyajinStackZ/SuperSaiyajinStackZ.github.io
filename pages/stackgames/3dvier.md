@@ -1,5 +1,5 @@
 ---
-title: stackgames/3dvier
+title: 3DVier
 description: 3DVier's Page.
 permalink: /stackgames/3dvier
 ---

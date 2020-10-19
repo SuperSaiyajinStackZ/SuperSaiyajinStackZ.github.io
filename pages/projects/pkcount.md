@@ -1,5 +1,5 @@
 ---
-title: projects/pkcount
+title: PKCount
 description: PKCount's Page.
 permalink: /projects/pkcount
 ---

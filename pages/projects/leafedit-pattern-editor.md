@@ -1,6 +1,6 @@
 ---
-title: projects/leafedit-pattern-editor
-description: LeafEdit's Pattern Editor
+title: LeafEdit-Pattern-Editor
+description: LeafEdit's Pattern Editor.
 permalink: /projects/leafedit-pattern-editor
 ---
 

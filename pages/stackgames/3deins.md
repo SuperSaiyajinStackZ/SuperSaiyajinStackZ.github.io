@@ -1,5 +1,5 @@
 ---
-title: stackgames/3deins
+title: 3DEins
 description: 3DEins's Page.
 permalink: /stackgames/3deins
 ---

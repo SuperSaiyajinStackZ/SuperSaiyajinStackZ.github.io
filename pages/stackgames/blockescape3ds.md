@@ -1,5 +1,5 @@
 ---
-title: stackgames/blockescape3ds
+title: BlockEscape3DS
 description: BlockEscape3DS's Page.
 permalink: /stackgames/blockescape3ds
 ---
