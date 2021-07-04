@@ -4,14 +4,14 @@ description: SuperSaiyajinStackZ's website.
 permalink: /
 ---
 
-# MainPage
+This is the main page of SuperSaiyajinStackZ's website.
 
-Hello. :P<br>
+I've got no idea how to useful do the main page honestly, so ehh i guess here some things:
 
-I'm SuperSaiyajinStackZ, I make Homebrew apps for Nintendo 3DS and sometimes also with help for DS(i). I also work on the StackGames series, check those out too, if you want.
 
-I'm the founder of the [Universal-Team](https://universal-team.github.io) and we make a few DS and 3DS homebrew so check those out if you want.
+- **Wanna know some things about me? Then checkout the `About` page which you can find on the top bar.**
+- **Want to see the latest stuff i worked on? Then checkout the grid below.**
+- **Want to see everything i worked on from my side? Then checkout `Projects` which you can find on the top bar.**
+- **Wanna play some games with your web browser? Then checkout `StackJSGames` which you can find on the top bar.**
 
-- Check out my projects [here](projects/myprojects)!
-
-- Check out the StackGames series [here](stackgames/gamelist)!
+{% include main-grid.html %}

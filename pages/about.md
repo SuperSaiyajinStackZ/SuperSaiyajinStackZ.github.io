@@ -7,14 +7,8 @@ permalink: /about
 ## About me
 [![StackZ-Avatar-Image](/assets/images/stackz.png){:.img-small}](/assets/images/stackz.png)
 
-> I'm the stackest of the stack.. StackZ! ~SuperSaiyajinStackZ
+Hey, it's me, StackZ or also known as SuperSaiyajinStackZ. I'm the founder of the Universal-Team and that's it.
 
-Yo! I'm SuperSaiyajinStackZ, also known as StackZ from the Universal-Team.
+I work on 3DS, and sometimes NDS homebrew apps, because it is fun to do so in C++. You can find me on the Universal-Team discord server [here](https://universal-team.net/discord). I'm mainly active in the `#stackverse` channel.
 
-I like to do Homebrew apps for the Nintendo 3DS. I'm also working on Homebrew games from the category "StackGames". Feel free to check it out [here](stackgames/gamelist).
-
-If you like, feel free to join my Discord Server called "StackLand"! [Click here for the Discord Invite.](https://discord.gg/UrHM5Rj)
-
-Also feel free to check out my YouTube Channel, because why not. [Click here for the YouTube Link.](https://www.youtube.com/channel/UCK3bn7C1WSCZClokhdg4BVw)
-
-That was everything about me, for questions or so, feel free to join the discord, i guess. ~SuperSaiyajinStackZ
+I'm not sure what else to say here, soo i keep it as this for now. Maybe i might update this later on, if i feel like. :)

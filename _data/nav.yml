@@ -9,33 +9,23 @@ toc:
     items:
       - title: ProjectList
         url: /projects/myprojects
+      - title: 3DElf
+        url: /stackgames/3delf
       - title: LeafEdit Pattern Editor
         url: /projects/leafedit-pattern-editor
-      - title: Mystery Dice Game
-        url: /projects/mdg
+      - title: Ludo3DS
+        url: /stackgames/ludo3ds
       - title: PKCount
         url: /projects/pkcount
+      - title: StackMill
+        url: /stackgames/stackmill
   - title: StackGames
     items:
       - title: GameList
         url: /stackgames/gamelist
-      - title: 3DEins
-        url: /stackgames/3deins
       - title: 3DElf
         url: /stackgames/3delf
-      - title: 3DVier
-        url: /stackgames/3dvier
-      - title: 3DZwei
-        url: /stackgames/3dzwei
-      - title: BlockEscape3DS
-        url: /stackgames/blockescape3ds
       - title: Ludo3DS
         url: /stackgames/ludo3ds
-      - title: Mystery Dice Game
-        url: /projects/mdg
-  - title: Documentation
-    items:
-      - title: 3DEins-Core
-        url: /documentation/3deins-core/index
-      - title: Mystery Dice Game
-        url: /documentation/mdg/index
+      - title: StackMill
+        url: /stackgames/stackmill

@@ -1,9 +1,9 @@
 ---
 title: My Projects
-description: Projects I'm being working on.
+description: Projects I worked on.
 permalink: /projects/myprojects
 ---
 
-## Here is a list from all of my projects!
-
+### **You can find a list from all of my projects here!**
+<br>
 {% include project-grid.html %}
