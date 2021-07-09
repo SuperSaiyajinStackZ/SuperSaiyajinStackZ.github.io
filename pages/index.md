@@ -14,4 +14,6 @@ I've got no idea how to useful do the main page honestly, so ehh i guess here so
 - **Want to see everything i worked on from my side? Then checkout `Projects` which you can find on the top bar.**
 - **Wanna play some games with your web browser? Then checkout `StackJSGames` which you can find on the top bar.**
 
+{% include latest-news.html %}
+
 {% include main-grid.html %}
