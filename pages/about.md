@@ -5,7 +5,7 @@ permalink: /about
 ---
 
 ## About me
-[![StackZ-Avatar-Image](/assets/images/stackz2.png){:.img-small}](/assets/images/stackz2.png)
+[![StackZ-Avatar-Image](/assets/images/stackz3.png){:.img-small}](/assets/images/stackz3.png)
 
 Hey, it's me, StackZ or also known as SuperSaiyajinStackZ. I'm the founder of the [Universal-Team](https://github.com/Universal-Team) and [Sim2Team](https://github.com/Sim2Team), that's it.
 
@@ -16,7 +16,7 @@ I also focus quite a bit on researching the Savefiles about **The Sims 2: Game B
 I'm not sure what else to say here, soo i keep it as this for now. Maybe i might update this later on, if i feel like. :)
 
 
-<div class="card">
+<div class="card text-center">
 	<div class="card-header">
 		<h3>Some of my Avatars</h3>
 	</div>
@@ -47,6 +47,21 @@ I'm not sure what else to say here, soo i keep it as this for now. Maybe i might
 						<div class="card-body card-clr">
 							<img src="/assets/images/stackz2.png" alt="Image" class="card-img-top"><br><br>
 							<h5><b>A new avatar inspired by The Sims 2 - Game Boy Advance. It is "semi-using" the border from the Cast Member pictures.</b></h5>
+						</div>
+					</div>
+				</div><br>
+			</div>
+
+			<div class="row">
+				<div class="col-sm-6">
+					<div class="card transparency">
+						<div class="card-header">
+							<h3>Latest Avatar Lighted</h3>
+						</div>
+
+						<div class="card-body card-clr">
+							<img src="/assets/images/stackz3.png" alt="Image" class="card-img-top"><br><br>
+							<h5><b>The latest avatar, but with more lights.</b></h5>
 						</div>
 					</div>
 				</div><br>
