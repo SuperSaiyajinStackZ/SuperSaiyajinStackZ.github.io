@@ -15,18 +15,42 @@ I also focus quite a bit on researching the Savefiles about **The Sims 2: Game B
 
 I'm not sure what else to say here, soo i keep it as this for now. Maybe i might update this later on, if i feel like. :)
 
-## Avatars
-Here are some of my avatars i guess.
 
-### Previous Avatar
+<div class="card">
+	<div class="card-header">
+		<h3>Some of my Avatars</h3>
+	</div>
 
-This avatar was my previous / last avatar i had for quite a long time.
+	<div class="card-body">
+		<div class="container">
 
-[![Previous Avatar](/assets/images/stackz.png){:.img-small}](/assets/images/stackz.png)
+			<div class="row">
+				<div class="col-sm-6">
+					<div class="card transparency">
+						<div class="card-header">
+							<h3>Previous Avatar</h3>
+						</div>
 
+						<div class="card-body card-clr">
+							<img src="/assets/images/stackz.png" alt="Image" class="card-img-top"><br><br>
+							<h5><b>This avatar was my previous / last avatar i had for quite a long time.</b></h5>
+						</div>
+					</div>
+				</div><br>
 
-### Latest Avatar
+				<div class="col-sm-6">
+					<div class="card transparency">
+						<div class="card-header">
+							<h3>Latest Avatar</h3>
+						</div>
 
-A new avatar inspired by The Sims 2 - Game Boy Advance. It is "semi-using" the border from the Cast Member pictures.
-
-[![Latest Avatar](/assets/images/stackz2.png){:.img-small}](/assets/images/stackz2.png)
+						<div class="card-body card-clr">
+							<img src="/assets/images/stackz2.png" alt="Image" class="card-img-top"><br><br>
+							<h5><b>A new avatar inspired by The Sims 2 - Game Boy Advance. It is "semi-using" the border from the Cast Member pictures.</b></h5>
+						</div>
+					</div>
+				</div><br>
+			</div>
+		</div>
+	</div>
+</div><br>

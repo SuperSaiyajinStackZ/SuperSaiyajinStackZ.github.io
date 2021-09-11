@@ -197,3 +197,16 @@ h5:hover .header-anchor,
 h6:hover .header-anchor {
 	display: inline;
 }
+
+.card-body {
+	color: var(--main-color);
+	background-color: var(--main-bg);
+}
+
+.card-header {
+	background-color: var(--primary);
+}
+
+.transparency {
+	background-color: transparent;
+}
