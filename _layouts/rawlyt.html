@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<!-- The Raw Layout. Used for things that don't have much text and may look better in HTML. -->
+<html lang="en">
+{% include head.html %}
+
+<body>
+	{% include navbar.html %}
+	<div class="content mb-3 aligncenter">
+		<main>
+			<div class="container-fluid main-content">
+				{{ page.content }}
+			</div>
+		</main>
+	</div>
+
+	{% include footer.html %}
+</body>
+</html>

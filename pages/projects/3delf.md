@@ -1,14 +1,15 @@
 ---
+layout: sidebarlyt
+sidebarcontext: Projects
+sidebarcontent: projects
 title: 3DElf
-description: 3DElf's Page.
-permalink: /stackgames/3delf
+description: SuperSaiyajinStackZ | 3DElf
+permalink: /projects/3delf
 ---
 
-# 3DElf
-
 <p align="center">
-	<a href="https://github.com/SuperSaiyajinStackZ/3DElf/releases/latest"><img src="../assets/images/3delf/banner.png"></a><br>
-	<b>3DElf is a 'Work in progress' Elfer raus! clone for the Nintendo 3DS.</b><br>
+	<a href="https://github.com/SuperSaiyajinStackZ/3DElf/releases/latest"><img src="/assets/images/3delf/banner.png"></a><br>
+	<b>3DElf is a 'Work in progress' Elfer raus! clone for the Nintendo 3DS.</b>
 </p>
 
 ## This game is playable in `Deutsch` and `English`.
@@ -16,6 +17,7 @@ permalink: /stackgames/3delf
 For a description to `Elfer raus!` see [this entry on Wikipedia](https://en.wikipedia.org/wiki/Domino_(card_game)#Elfer_Raus!).
 
 3DElf's Core is written by [SuperSaiyajinStackZ](https://github.com/SuperSaiyajinStackZ).
+<hr>
 
 ## Screenshots
 Here you'll find screenshots to 3DElf's current progress.
@@ -34,11 +36,13 @@ Here you'll find screenshots to 3DElf's current progress.
 
 ### Splash Overlay
 ![](/assets/images/3delf/splash_en.png)
+<hr>
 
 ## Downloads
 Click [here](https://github.com/SuperSaiyajinStackZ/3DElf/releases/latest/download/3DElf.cia) for the latest 3DElf cia version.
 
 Click [here](https://github.com/SuperSaiyajinStackZ/3DElf/releases/latest/download/3DElf.3dsx) for the latest 3DElf 3dsx version.
+<hr>
 
 ## Credits
 Here you'll find the Credits / Contributors.
@@ -49,3 +53,4 @@ Here you'll find the Credits / Contributors.
 ### Other
 - [devkitPro](https://github.com/devkitPro): For devkitARM, Libctru, Citro2D & Citro3D.
 - [Universal-Team](https://github.com/Universal-Team): For Universal-Core.
+<hr>

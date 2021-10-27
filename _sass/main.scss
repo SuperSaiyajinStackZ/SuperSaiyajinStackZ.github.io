@@ -1,0 +1,93 @@
+/* Needed for the footer to stay on bottom. */
+html, body {
+	height: 100%;
+}
+
+/* Main body color and some handles. */
+body {
+	background-color: $bg-color;
+	color: $bg-textcolor;
+
+	/* These are needed for the footer to stay on the bottom as well. */
+	display: flex;
+	flex-direction: column;
+}
+
+
+/* Also needed for the footer to stay on bottom. */
+.content {
+	flex: 1 0 auto;
+}
+
+/* The title from a card. Containing a small border to make it look nicer or so. */
+.card-title-bar {
+	background-color: $card-title-bar-color;
+	border-width: 5px;
+	color: $card-text-color;
+	text-align: center;
+}
+/* The MAIN card width, transparency to not show weird white colors and the margin. */
+.card-main {
+	width: 96%;
+	background-color: transparent;
+	margin-left: 2%;
+	color: $card-text-color;
+	border-width: 4px;
+}
+
+.transparency {
+	background-color: transparent;
+}
+
+/* Navigation bar style. */
+.navbar-style {
+	width: 100%;
+	background-color: $bar-color;
+	color: $bar-textcolor;
+}
+
+/* The footer style. */
+footer {
+	text-align: left;
+	width: 100%;
+	background-color: $bar-color;
+	color: $bar-textcolor;
+}
+
+
+/* No underscore on links, i don't like that. */
+a {
+	color: $link-color;
+	text-decoration: none;
+}
+a:hover {
+	color: $link-hovercolor;
+}
+
+/* Images should not go over the screen size. */
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+/* Text alignments. */
+.aligncenter {
+	text-align: center;
+}
+.alignleft {
+	text-align: left;
+}
+
+/* Code related things. */
+:not(pre) > code, pre {
+	color: $bar-textcolor;
+	background-color: $bar-color;
+	padding: 3px;
+	border-radius: 0.25rem;
+	white-space: nowrap;
+}
+pre {
+	padding: 16px;
+	border-radius: 0.5rem;
+	white-space: pre;
+}

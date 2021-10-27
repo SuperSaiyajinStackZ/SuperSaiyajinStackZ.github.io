@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<!-- The Sidebar Layout. This contains a sidebar on the left side.. and the actual page content on the right side and is used for most if not all things. -->
+<html lang="en">
+{% include head.html %}
+
+<body>
+	{% include navbar.html %}
+	<div class="content mb-3 alignleft">
+		<main>
+			<div class="container-fluid">
+				<div class="row pt-5">
+					<div class="col-sm-3">
+
+						<div class="card card-main mb-3">
+							<div class="card-header card-title-bar">
+								<h3 class="card-title">{{ page.sidebarcontext }}</h3>
+							</div>
+
+							<div class="card-body">
+								<!-- Display all related content here on that card. -->
+								<ul>
+									{% for item in site.data.sidebar[page.sidebarcontent] %}
+										<li>
+											<a
+												{% if item.title == page.title %}class="fw-bold"{% endif %}
+													href="{{ item.url }}">{{ item.title }}
+											</a>
+										</li>
+									{% endfor %}
+								</ul>
+							</div>
+						</div>
+					</div>
+
+					<!-- Page content. -->
+					<div class="col-sm-8">
+						<h1 class="aligncenter">{{ page.title }}</h1>
+						<hr>
+						
+						{{ content }}
+					</div>
+				</div>
+			</div>
+		</main>
+	</div>
+
+	{% include footer.html %}
+</body>
+</html>
