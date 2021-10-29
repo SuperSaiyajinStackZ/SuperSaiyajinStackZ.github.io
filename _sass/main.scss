@@ -3,6 +3,11 @@ html, body {
 	height: 100%;
 }
 
+/* Hide content. */
+.hide {
+	display: none;
+}
+
 /* Main body color and some handles. */
 body {
 	background-color: $bg-color;
@@ -80,8 +85,8 @@ img {
 
 /* Code related things. */
 :not(pre) > code, pre {
-	color: $bar-textcolor;
-	background-color: $bar-color;
+	color: $code-color;
+	background-color: $code-bg;
 	padding: 3px;
 	border-radius: 0.25rem;
 	white-space: nowrap;
@@ -90,4 +95,10 @@ pre {
 	padding: 16px;
 	border-radius: 0.5rem;
 	white-space: pre;
+}
+
+/* The input box on the blog search. */
+input {
+	background-color: $card-title-bar-color;
+	color: $bg-textcolor;
 }

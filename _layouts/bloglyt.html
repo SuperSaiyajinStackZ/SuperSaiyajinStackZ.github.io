@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- The Sidebar Layout. This contains a sidebar on the left side.. and the actual page content on the right side. -->
+<!-- The Blog Layout. Displaying the blogs on the sidebar, and the actual content on the right side. -->
 <html lang="en">
 {% include head.html %}
 
@@ -13,14 +13,15 @@
 
 						<div class="card card-main mb-3">
 							<div class="card-header card-title-bar">
-								<h3 class="card-title">{{ page.sidebarcontext }}</h3>
+								<label for="blogsearchinput" class="fw-bold">Blogs</label>
+								<input type="text" id="blogsearchinput" value="">
 							</div>
 
 							<div class="card-body">
-								<!-- Display all related content here on that card. -->
+								<!-- Display all blogs here on that card. -->
 								<ul>
-									{% for item in site.data.sidebar[page.sidebarcontent] %}
-										<li>
+									{% for item in site.data["blogs"] %}
+										<li id={{ item.id }}>
 											<a
 												{% if item.title == page.title %}class="fw-bold"{% endif %}
 													href="{{ item.url }}">{{ item.title }}
@@ -45,5 +46,6 @@
 	</div>
 
 	{% include footer.html %}
+	<script src="/assets/js/blogsearch.js" type="module"></script>
 </body>
 </html>

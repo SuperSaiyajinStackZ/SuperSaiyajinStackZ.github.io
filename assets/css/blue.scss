@@ -3,18 +3,22 @@
 
 /* Background related. */
 $bg-color: #123456;
-$bg-textcolor: #AAAAAA;
+$bg-textcolor: #ABCDEF;
 
 /* Bar related. */
 $bar-color: #456789;
-$bar-textcolor: #AAAAAA;
+$bar-textcolor: #ABCDEF;
 
 /* Card related. */
 $card-title-bar-color: #456789;
-$card-text-color: #AAAAAA;
+$card-text-color: #ABCDEF;
 
 /* Link related. */
-$link-color: #DDDDDD;
-$link-hovercolor: #FFFFFF;
+$link-color: #89ABCD;
+$link-hovercolor: #ABCDEF;
+
+/* Others. */
+$code-color: #ABCDEF;
+$code-bg: #234567;
 
 @import "main";
