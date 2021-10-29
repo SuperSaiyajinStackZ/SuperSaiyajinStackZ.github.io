@@ -33,11 +33,14 @@ Here you'll find screenshots to Ludo3DS's. LudoNDS is pretty similar to it anywa
 ### Game Screen
 ![](/assets/images/ludo3ds/instructions1_en.png) ![](/assets/images/ludo3ds/instructions2_en.png) ![](/assets/images/ludo3ds/game_screen_en.png) ![](/assets/images/ludo3ds/sub_menu_en.png)
 
+### Game Settings
+![](/assets/images/ludo3ds/gameSettings1_en.png) ![](/assets/images/ludo3ds/gameSettings2_en.png)
+
 ### Rules Overlay
 ![](/assets/images/ludo3ds/rules_en.png)
 
 ### Splash Overlay
-![](/assets/images/ludo3ds/splash_en.png)
+![](/assets/images/ludo3ds/splash.png)
 
 ### Language Selection Overlay
 ![](/assets/images/ludo3ds/language_overlay_en.png)
