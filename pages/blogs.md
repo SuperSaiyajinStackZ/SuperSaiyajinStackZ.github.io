@@ -5,17 +5,11 @@ description: SuperSaiyajinStackZ | Blogs
 permalink: /blogs
 ---
 
-**There aren't any blogs available yet.**
+**Welcome to the blogs section by SuperSaiyajinStackZ.**
 
-I may eventually write blogs about my savefile research and such about the following games in the future:
+You can find some blogs written by SuperSaiyajinStackZ below.
 
-- `The Sims Bustin' Out (Game Boy Advance)`
-- `The Urbz - Sims in the City (Game Boy Advance)`
-- `The Urbz - Sims in the City (Nintendo DS)`
-- `The Sims 2 (Game Boy Advance)`
-- `The Sims 2 - Hachamecha Hotel Life (Nintendo DS)`
-
-^ These games are my main focus.. but maybe also others, who knows. Maybe i will also do blogs about different things, i'm not sure about it yet, as i never have written any blogs so far.
-
-***The first blog is planned sometime around the weekend, if i get into it.***
+- **[Blog 1 - Site Rewrite](/blogs/blog1)**
 <hr>
+
+***If you want to search for a specific blog topic, you can use the searchbar on the sidebar's card.***

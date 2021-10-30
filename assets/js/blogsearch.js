@@ -24,11 +24,9 @@
 		  reasonable ways as different from the original version.
 */
 
-const BlogAmount = 0; // Currently 0 blogs available.
+const BlogAmount = 1;
 
 document.getElementById("blogsearchinput").onkeyup = function() {
-	return; // Just return, as we don't have any blogs currently.
-
 	const SearchResult = document.getElementById("blogsearchinput").value;
 
 	for (let Idx = 0; Idx < BlogAmount; Idx++) {
