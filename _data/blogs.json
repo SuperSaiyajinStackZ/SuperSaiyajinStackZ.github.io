@@ -3,5 +3,10 @@
 		"title": "Site Rewrite",
 		"url": "/blogs/blog1",
 		"id": "blog_0"
+	},
+	{
+		"title": "TSGBAStringFetcher",
+		"url": "/blogs/blog2",
+		"id": "blog_1"
 	}
 ]

@@ -24,7 +24,7 @@
 		  reasonable ways as different from the original version.
 */
 
-const BlogAmount = 1;
+const BlogAmount = 2;
 
 document.getElementById("blogsearchinput").onkeyup = function() {
 	const SearchResult = document.getElementById("blogsearchinput").value;

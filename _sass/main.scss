@@ -102,3 +102,25 @@ input {
 	background-color: $card-title-bar-color;
 	color: $bg-textcolor;
 }
+
+/* Table stuff. */
+table {
+	margin-bottom: 1em;
+	text-align: left;
+}
+/* Table Header. */
+table th {
+	text-align: center;
+}
+/* Table Header + Table Data. */
+table th, table td {
+	padding: 6px 13px;
+	border: 2px solid $card-title-bar-color;
+}
+
+/* The blockquote when using "> Text". */
+blockquote {
+	margin-bottom: 20px;
+	padding: 0 0 0 20px;
+	border-left: 5px solid $bar-color;
+}
